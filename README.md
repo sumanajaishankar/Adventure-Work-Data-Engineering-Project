@@ -52,6 +52,8 @@ Source Data → Azure Data Factory (Ingestion)
 
 ##  📸 Screenshots
 1. Azure Data Lake Containers (Bronze, Silver, Gold)
+<img width="1100" height="400" alt="Image" src="https://github.com/user-attachments/assets/c6934742-cd71-41de-8594-706ec80faa3d" />
+2. Gold Layer – extsales Table
    
 
 
