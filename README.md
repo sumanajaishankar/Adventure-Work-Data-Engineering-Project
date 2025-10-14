@@ -51,11 +51,16 @@ Source Data → Azure Data Factory (Ingestion)
 * Power BI integration for dashboards
 
 ##  📸 Screenshots
-1. Azure Data Lake Containers (Bronze, Silver, Gold)
-<img width="1100" height="400" alt="Image" src="https://github.com/user-attachments/assets/c6934742-cd71-41de-8594-706ec80faa3d" />
-2. Gold Layer – extsales Table
+**1. Azure Data Lake Containers (Bronze, Silver, Gold)**
+<img width="1920" height="913" alt="Image" src="https://github.com/user-attachments/assets/c6934742-cd71-41de-8594-706ec80faa3d" />
+
+
+**2. Gold Layer – extsales Table**
 <img width="1920" height="913" alt="Image" src="https://github.com/user-attachments/assets/0f00c5ed-4a4a-4cb7-8b92-1a3cf7c4246e" />
-3. Azure to powerBI - DASHBOARD
+
+
+**3. Azure to powerBI - DASHBOARD**
+<img width="1920" height="913" alt="Image" src="https://github.com/user-attachments/assets/cffbffce-1715-4ae4-81fa-3cb522b24f71" />
    
 
 
