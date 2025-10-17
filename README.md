@@ -48,7 +48,7 @@ Source Data → Azure Data Factory (Ingestion)
 * Secure access via Microsoft Entra ID App Registration
 * Databricks-based data transformation and visualization
 * Synapse Lakehouse tabular abstractions for analytics
-* Power BI integration for dashboards
+* Power BI integration for dashboards.
 
 ##  📸 Screenshots
 **1. Azure Data Lake Containers (Bronze, Silver, Gold)**
