@@ -29,14 +29,14 @@ spark.conf.set("fs.azure.account.oauth2.client.endpoint.staticdatalake.dfs.core.
 
 df_cal=spark.read.format('csv').option("header",True).option("inferSchema",True).load('abfss://bronze@staticdatalake.dfs.core.windows.net/AdventureWorks_Calendar')
 
-# COMMAND ----------
+# COMMAND ------------
 
 df_cus=spark.read.format('csv')\
     .option("header",True)\
     .option("inferSchema",True).\
     load('abfss://bronze@staticdatalake.dfs.core.windows.net/AdventureWorks_Customers')
 
-# COMMAND ----------
+# COMMAND ------------
 
 df_procat=spark.read.format('csv')\
     .option("header",True)\
